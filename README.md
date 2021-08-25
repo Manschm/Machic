@@ -3,7 +3,7 @@
 Mechanical CAD
 
 Goals:
-- Free
+- Free & easy
 - Generate STEP files
 - Import STEP files
 - Editing STEP files
